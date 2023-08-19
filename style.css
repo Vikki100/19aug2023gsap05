@@ -1,0 +1,45 @@
+
+@font-face {
+    font-family: hero;
+    src: url(./Heading-Now-Variable.ttf);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+#main{
+
+}
+#page1{
+    width: 100%;
+    height: 100vh;
+    background: #000;
+    overflow: hidden;
+}
+
+#page1 h1{
+    color: white;
+    font-size: 33vw;
+    text-transform: uppercase;
+    white-space: nowrap;
+    font-family: hero;
+    font-stretch: 300%;
+    font-weight: 999;
+    margin-left: 60px;
+    
+
+
+
+}
+
+
+#page2{
+    width: 100%;
+    height: 100vh;
+    background: #3e3c3c;
+}
+
